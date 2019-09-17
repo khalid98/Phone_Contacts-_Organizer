@@ -1,0 +1,4 @@
+﻿  Source.cpp
+g:\الجامعة\cs2\1'st term\data structures\c++\project\phone_contacts _organizer3\phone_contacts _organizer3\contant.h(113): warning C4715: 'contact::edit': not all control paths return a value
+  Phone_Contacts _Organizer3.vcxproj -> G:\الجامعة\CS2\1'st Term\Data Structures\C++\project\Phone_Contacts _Organizer3\Debug\Phone_Contacts _Organizer3.exe
+  Phone_Contacts _Organizer3.vcxproj -> G:\الجامعة\CS2\1'st Term\Data Structures\C++\project\Phone_Contacts _Organizer3\Debug\Phone_Contacts _Organizer3.pdb (Partial PDB)
